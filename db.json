@@ -1,0 +1,190 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "http://localhost:3000/assets/img/slider1.png",
+      "title": "Ягненок",
+      "description": "Фаршированный гречневой кашей",
+      "weight": "Вес: 225г",
+      "price": 620
+    },
+    {
+      "id": 2,
+      "title": "Гусь",
+      "description": "Фаршированный яблоками",
+      "image": "http://localhost:3000/assets/img/slider2.png",
+      "weight": "Вес: 225г",
+      "price": 7900
+    },
+    {
+      "id": 3,
+      "title": "Утка",
+      "description": "Фаршированная рисом, курагой и айвой",
+      "image": "http://localhost:3000/assets/img/slider3.png",
+      "weight": "Вес: 225г",
+      "price": 3230
+    }
+  ],
+  "post": [
+    {
+      "name": "'/p'/;",
+      "phone": ";//",
+      "street": "/;k;",
+      "home": "/;;/",
+      "office": "",
+      "door": "",
+      "floor": "",
+      "comment": "",
+      "agreement": true,
+      "products": [],
+      "id": 1
+    },
+    {
+      "name": "kj",
+      "phone": "kn",
+      "street": "kn",
+      "home": "ml",
+      "office": "",
+      "door": "",
+      "floor": "",
+      "comment": "",
+      "agreement": true,
+      "products": [],
+      "id": 2
+    },
+    {
+      "name": "kbj",
+      "phone": "j n",
+      "street": "k;m",
+      "home": "k,.",
+      "office": "",
+      "door": "",
+      "floor": "",
+      "comment": "",
+      "agreement": true,
+      "id": 3
+    },
+    {
+      "name": "k;m",
+      "phone": ";m",
+      "street": "jlm,",
+      "home": "k; ,",
+      "office": "",
+      "door": "",
+      "floor": "",
+      "comment": "",
+      "agreement": true,
+      "id": 4
+    },
+    {
+      "name": "dfv",
+      "phone": "vsd",
+      "street": "v`sd",
+      "home": "vds",
+      "office": "",
+      "door": "",
+      "floor": "",
+      "comment": "",
+      "agreement": true,
+      "products": [
+        "getBasket"
+      ],
+      "id": 5
+    },
+    {
+      "name": "bsf",
+      "phone": "vzdf",
+      "street": "vfdz",
+      "home": "vfdz",
+      "office": "",
+      "door": "",
+      "floor": "",
+      "comment": "",
+      "agreement": true,
+      "products": [
+        "getBasket"
+      ],
+      "id": 6
+    },
+    {
+      "name": "zvdf",
+      "phone": "vzdf",
+      "street": "vzdf",
+      "home": "vzdf",
+      "office": "",
+      "door": "",
+      "floor": "",
+      "comment": "",
+      "agreement": true,
+      "products": [
+        "getBasket"
+      ],
+      "id": 7
+    },
+    {
+      "name": "zvdf",
+      "phone": "v`d",
+      "street": "v`sd",
+      "home": "bsr",
+      "office": "",
+      "door": "",
+      "floor": "",
+      "comment": "",
+      "agreement": true,
+      "products": [],
+      "id": 8
+    },
+    {
+      "name": "`csd",
+      "phone": "sbr",
+      "street": "brtb",
+      "home": "rbr",
+      "office": "",
+      "door": "",
+      "floor": "",
+      "comment": "",
+      "agreement": true,
+      "products": [],
+      "id": 9
+    },
+    {
+      "name": "vev",
+      "phone": "ve",
+      "street": "ve",
+      "home": "ve",
+      "office": "",
+      "door": "",
+      "floor": "",
+      "comment": "",
+      "agreement": true,
+      "products": [],
+      "id": 10
+    },
+    {
+      "name": "d fv ",
+      "phone": "vdv",
+      "street": "vdf",
+      "home": "vfd",
+      "office": "",
+      "door": "",
+      "floor": "",
+      "comment": "",
+      "agreement": true,
+      "products": [],
+      "id": 11
+    },
+    {
+      "name": "v",
+      "phone": "v",
+      "street": "v",
+      "home": "v",
+      "office": "",
+      "door": "",
+      "floor": "",
+      "comment": "",
+      "agreement": true,
+      "products": [],
+      "id": 12
+    }
+  ]
+}
